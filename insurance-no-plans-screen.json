@@ -1,0 +1,221 @@
+{
+
+	"banner": {
+
+		"title": "Get Health Insurance & secure your family today!",
+
+		"image": {
+
+			"link": "https://cdn.clinikk.com/static/android_ui/banners/banner-family.png",
+
+			"mime_type": ""
+
+		},
+
+		"video": {
+
+			"link": "",
+
+			"mime_type": ""
+
+		},
+
+		"product": {
+
+			"name": "Health Insurance",
+
+			"price": "300",
+
+			"price_unit": "rupee"
+
+		}
+
+	},
+
+	"key_benefits": {
+
+		"section_title": "KEY BENEFITS",
+
+		"benefits": [
+
+			{
+
+				"icon": "",
+
+				"content": ""
+
+			}
+
+		]
+
+	},
+
+	"customer_reviews": {
+
+		"section_title": "SEE WHAT OUR CUSTOMER SAY",
+
+		"reviews": [
+
+			{
+
+				"rating": "",
+
+				"customer": {
+
+					"name": "",
+
+					"profession": "",
+
+					"avatar": ""
+
+				}
+
+			}
+
+		]
+
+	},
+
+	"bottom_sheet": {
+
+		"title": "Serving over 1 lakh+ happy families! 🎉  ",
+
+		"cta_title": "Get Insurance Now"
+
+	},
+
+	"translations": [
+
+		{
+
+			"en": {
+
+				"banner": {
+
+					"title": "Get Health Insurance & secure your family today!",
+
+					"product": {
+
+						"name": "Health Insurance",
+
+						"price": "300",
+
+						"price_unit": "rupee"
+
+					},
+
+					"key_benefits": {
+
+						"section_title": "KEY BENEFITS",
+
+						"benefits": [
+
+							{
+
+								"icon": "https://cdn.clinikk.com/static/android_ui/icons/cashless.png",
+
+								"content": "Cashless Claim Settlement"
+
+							},
+
+							{
+
+								"icon": "https://cdn.clinikk.com/static/android_ui/icons/claim-support.png",
+
+								"content": "24x7 Insurance Claim Support"
+
+							},
+
+							{
+
+								"icon": "https://cdn.clinikk.com/static/android_ui/icons/hospital.png",
+
+								"content": "5500+ Hospitals across India"
+
+							}
+
+						]
+
+					}
+
+				},
+
+				"customer_reviews": {
+
+					"section_title": "SEE WHAT OUR CUSTOMER SAY",
+
+					"reviews": [
+
+						{
+
+							"rating": "⭐ 4",
+
+							"customer": {
+
+								"name": "Ashok nayak",
+
+								"profession": "Rapido Captain",
+
+								"avatar": "https://cdn.clinikk.com/static/android_ui/assets/ashok_nayak_rapido_captain.png",
+
+								"comment":"“The entire service from CLINIKK’s insurance doctor call to Final Claim approval from Insurer was seamless.”"
+
+							}
+
+						},
+
+						{
+
+							"rating": "⭐ 4",
+
+							"customer": {
+
+								"name": "Ishtiyak Ahmed",
+
+								"profession": "Ola driver",
+
+								"avatar": "https://cdn.clinikk.com/static/android_ui/assets/ishtiyak_ahmed_ola_driver.png",
+
+								"comment":"“When I was in hospital, CLINIKK was 24x7 in touch with my brother to help us with the claim. Top class service.”"
+
+							}
+
+						},
+
+						{
+
+							"rating": "⭐ 4",
+
+							"customer": {
+
+								"name": "Vijayakumar V	",
+
+								"profession": "Ola driver",
+
+								"avatar": "",
+
+								"comment":"“CLINIKK insurance product is excellent as it helped him complete his hospitalization at zero charges.”"
+
+							}
+
+						}
+
+					]
+
+				},
+
+				"bottom_sheet": {
+
+					"title": "Serving over 1 lakh+ happy families! 🎉  ",
+
+					"cta_title": "Get Insurance Now"
+
+				}
+
+			}
+
+		}
+
+	]
+
+}
