@@ -1,0 +1,470 @@
+{
+  "pageTitle": "Experience India's only 360° Healthcare Plan",
+  "pageSubtitle": "All offerings in one at affordable prices!",
+  "ctaCardTitle": "Starting at just ",
+  "amount": 200,
+  "ctaTitle": "View Product",
+  "planBenefits": [
+    {
+      "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+      "benefitTitle": "Health Insurance",
+      "benefitSubtitle": "Coverage upto 4 Lakhs in case of illness or accident "
+    },
+    {
+      "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+      "benefitTitle": "Doctor Consults",
+      "benefitSubtitle": "At Clinikk Medical Centres or from your phone"
+    },
+    {
+      "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+      "benefitTitle": "Medicines & Lab tests",
+      "benefitSubtitle": "Upto 20% off on medicine and lab test"
+    },
+    {
+      "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+      "benefitTitle": "Cashless Claim",
+      "benefitSubtitle": "Benefits at 6000+ hospitals across India"
+    },
+    {
+      "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+      "benefitTitle": "24x7 Helpline",
+      "benefitSubtitle": "To solving all your medical & insurance claim issues"
+    },
+    {
+      "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+      "benefitTitle": "Health Channel",
+      "benefitSubtitle": "Fun health videos so you get better & stay healthy"
+    }
+  ],
+  "translations": {
+    "en": {
+      "pageTitle": "Experience India's only 360° Healthcare Plan",
+      "pageSubtitle": "All offerings in one at affordable prices!",
+      "ctaCardTitle": "Starting at just 200/Month",
+      "amount": 200,
+      "ctaTitle": "View Product",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "Health Insurance",
+          "benefitSubtitle": "Coverage upto 4 Lakhs in case of illness or accident "
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "Doctor Consults",
+          "benefitSubtitle": "At Clinikk Medical Centres or from your phone"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "Medicines & Lab tests",
+          "benefitSubtitle": "Upto 20% off on medicine and lab test"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "Cashless Claim",
+          "benefitSubtitle": "Benefits at 6000+ hospitals across India"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 Helpline",
+          "benefitSubtitle": "To solving all your medical & insurance claim issues"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "Health Channel",
+          "benefitSubtitle": "Fun health videos so you get better & stay healthy"
+        }
+      ]
+    },
+    "bn": {
+      "pageTitle": "ভারতের একমাত্র 360° স্বাস্থ্যসেবা পরিকল্পনাটি অনুভব করুন",
+      "pageSubtitle": "সাশ্রয়ী মূল্যে একের মধ্যে সমস্ত অফার!",
+      "ctaCardTitle": "মাত্র 200/মাস থেকে শুরু হচ্ছে",
+      "amount": 200,
+      "ctaTitle": "পণ্য দেখুন",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "স্বাস্থ্য বীমা",
+          "benefitSubtitle": "অসুস্থতা বা দুর্ঘটনার ক্ষেত্রে 4 লক্ষ পর্যন্ত কভারেজ "
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "ডাক্তারের পরামর্শ",
+          "benefitSubtitle": "ক্লিনিক মেডিকেল সেন্টারে বা আপনার ফোন থেকে"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "ওষুধ ও ল্যাব পরীক্ষা",
+          "benefitSubtitle": "মেডিসিন এবং ল্যাব পরীক্ষায় 20% পর্যন্ত ছাড়"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "ক্যাশলেস দাবি",
+          "benefitSubtitle": "ভারত জুড়ে 6000+ হাসপাতালে সুবিধা"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 Helpline",
+          "benefitSubtitle": "আপনার সমস্ত মেডিকেল ও বীমা দাবি সমস্যা সমাধানের জন্য"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "স্বাস্থ্য চ্যানেল",
+          "benefitSubtitle": "মজাদার স্বাস্থ্য ভিডিও যাতে আপনি আরও ভাল হন এবং সুস্থ থাকেন"
+        }
+      ]
+    },
+    "gu": {
+      "pageTitle": "ભારતના એકમાત્ર 360° હેલ્થકેર યોજનાનો અનુભવ કરો",
+      "pageSubtitle": "સસ્તા ભાવમાં બધું જ એક દ્વારા ઓફર થાય છે!",
+      "ctaCardTitle": "કેવલ 200/માહ થી શરુ",
+      "amount": 200,
+      "ctaTitle": "ઉત્પાદન જુઓ",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "આરોગ્ય વીમો",
+          "benefitSubtitle": "માંદગી અથવા અકસ્માતના કિસ્સામાં 4 લાખ સુધીનું કવરેજ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "ડૉક્ટરની સલાહ",
+          "benefitSubtitle": "ક્લિનિક તબીબી કેન્દ્રો પર અથવા તમારા ફોન વડે"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "દવાઓ અને પ્રયોગશાળા પરીક્ષણ",
+          "benefitSubtitle": "દવાઓ અને પ્રયોગશાળા પરીક્ષણ પર 20% સુધીનું વળતર"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "કેશલેસ દાવા",
+          "benefitSubtitle": "ભારતભરમાં 6000+ હોસ્પિટલમાં લાભ મેળવો"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 Helpline",
+          "benefitSubtitle": "તમારા તમામ તબીબી અને વીમાના દાવાને લગતી સમસ્યાઓના સમાધાન માટે"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "આરોગ્ય ચેનલ",
+          "benefitSubtitle": "મનોરંજક આરોગ્ય વિષયક વિડીયો જેથી તમે સારા અને સ્વસ્થ રહો"
+        }
+      ]
+    },
+    "hi": {
+      "pageTitle": "भारत की एकमात्र 360° हेल्थकेयर योजना का अनुभव करें",
+      "pageSubtitle": "सभी ऑफ़र एक ही स्थान पर सस्ती दरों पर उपलब्ध!",
+      "ctaCardTitle": "केवल 200/महीना से शुरू",
+      "amount": 200,
+      "ctaTitle": "उत्पाद देखें",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "स्वास्थ्य बीमा",
+          "benefitSubtitle": "बीमारी या दुर्घटना के मामले में 4 लाख तक की कवरेज "
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "डॉक्टर की सलाह",
+          "benefitSubtitle": "क्लिनिक्क मेडिकल सेंटर में या अपने फोन से"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "दवाएं और लैब टेस्ट",
+          "benefitSubtitle": "दवा और लैब टेस्ट पर 20% तक की छूट"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "कैशलेस क्लेम",
+          "benefitSubtitle": "पूरे भारत में 6000+ अस्पतालों में लाभ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 हेल्पलाइन",
+          "benefitSubtitle": "अपने सभी चिकित्सा और बीमा दावा मुद्दों को हल करने के लिए"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "स्वास्थ्य चैनल",
+          "benefitSubtitle": "अपने स्वास्थ्य को बेहतर बनाने और आपको स्वस्थ रखने के लिए मजेदार स्वास्थ्य वीडियो"
+        }
+      ]
+    },
+    "kn": {
+      "pageTitle": "ಭಾರತದ ಏಕೈಕ 360° ಆರೋಗ್ಯ ಯೋಜನೆಯನ್ನು ಅನುಭವಿಸಿ",
+      "pageSubtitle": "ಒಂದೇ ಕಡೆ ಕೈಗೆಟುಕುವ ಬೆಲೆಯಲ್ಲಿ ಎಲ್ಲ ಕೊಡುಗೆಗಳು!",
+      "ctaCardTitle": "ತಿಂಗಳಿಗೆ ಕೇವಲ 200 ರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ",
+      "amount": 200,
+      "ctaTitle": "ಉತ್ಪನ್ನವನ್ನು ವೀಕ್ಷಿಸಿ",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "ಆರೋಗ್ಯ ವಿಮೆ",
+          "benefitSubtitle": "ಅನಾರೋಗ್ಯ ಅಥವಾ ಅಪಘಾತದ ಸಂದರ್ಭದಲ್ಲಿ 4 ಲಕ್ಷದವರೆಗೆ ಕವರೇಜ್"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "ಡಾಕ್ಟರ್ ಸಲಹೆ",
+          "benefitSubtitle": "ಕ್ಲಿನಿಕ್ ವೈದ್ಯಕೀಯ ಕೇಂದ್ರಗಳಲ್ಲಿ ಅಥವಾ ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "ಔಷಧಿಗಳು ಮತ್ತು ಲ್ಯಾಬ್ ಟೆಸ್ಟ್",
+          "benefitSubtitle": "ಔಷಧಿ ಮತ್ತು ಲ್ಯಾಬ್ ಟೆಸ್ಟ್ ಮೇಲೆ 20% ವರೆಗೆ ರಿಯಾಯಿತಿ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "ಕ್ಯಾಶ್‌ಲೆಸ್ ಕ್ಲೇಮ್",
+          "benefitSubtitle": "ಭಾರತದಾದ್ಯಂತ 6000+ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಪ್ರಯೋಜನಗಳು"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 ಸಹಾಯವಾಣಿ",
+          "benefitSubtitle": "ನಿಮ್ಮ ಎಲ್ಲಾ ವೈದ್ಯಕೀಯ ಮತ್ತು ವಿಮಾ ಕ್ಲೇಮ್ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "ಆರೋಗ್ಯ ಚಾನೆಲ್",
+          "benefitSubtitle": "ನಿಮ್ಮ ಆರೋಗ್ಯವನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ನಿಮ್ಮನ್ನು ಆರೋಗ್ಯವಾಗಿಡಲು ತಮಾಷೆಯ ಆರೋಗ್ಯ ವೀಡಿಯೊಗಳು"
+        }
+      ]
+    },
+    "ml": {
+      "pageTitle": "ഇന്ത്യയിലെ ഒരേയൊരു 360° ഹെൽത്ത്കെയർ പ്ലാൻ അനുഭവിച്ചറിയൂ",
+      "pageSubtitle": "എല്ലാം നൽകുന്നത് താങ്ങാനാകുന്ന ഒരൊറ്റ നിരക്കിൽ!",
+      "ctaCardTitle": "പ്രതിമാസം വെറും 200 രൂപയ്ക്ക് ആരംഭിക്കുന്നു",
+      "amount": 200,
+      "ctaTitle": "ഉൽപ്പന്നം കാണുക",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "ആരോഗ്യ ഇൻഷുറൻസ്",
+          "benefitSubtitle": "രോഗങ്ങളോ അപകടമോ ഉണ്ടായാൽ 4 ലക്ഷം വരെ പരിരക്ഷ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "ഡോക്ടറെ കൺസൾട്ട് ചെയ്യാം",
+          "benefitSubtitle": "ക്ലിനിക്ക് മെഡിക്കൽ സെന്ററുകളിലോ നിങ്ങളുടെ ഫോണിൽ നിന്നോ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "മെഡിക്കൽ, ലാബ് ടെസ്റ്റുകൾ",
+          "benefitSubtitle": "മരുന്നുകൾക്കും ലാബ് ടെസ്റ്റുകൾക്കും 20% കിഴിവ്"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "കാഷ് ലെസ്സ് ക്ലെയിം",
+          "benefitSubtitle": "ഇന്ത്യയിലുടനീളമുള്ള 6000+ ആശുപത്രികളിൽ പ്രയോജനം ലഭിക്കുന്നു"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 ഹെൽപ്പ്ലൈൻ",
+          "benefitSubtitle": "ആരോഗ്യ ഇൻഷുറൻസുമായി ബന്ധപ്പെട്ട നിങ്ങളുടെ എല്ലാ പ്രശ്നങ്ങളും പരിഹരിക്കുന്നതിന്"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "ആരോഗ്യ ചാനൽ",
+          "benefitSubtitle": "നിങ്ങളുടെ ആരോഗ്യം മെച്ചപ്പെടുത്താനും നിലനിർത്താനും, രസകരമായ ഹെൽത്ത് വീഡിയോകൾ"
+        }
+      ]
+    },
+    "mr": {
+      "pageTitle": "भारताच्या एकमेव 360° आरोग्यनिगा प्लॅनचा अनुभव घ्या",
+      "pageSubtitle": "परवडणाऱ्या किमतीला सर्व ऑफरिंग्ज एकामध्येच!",
+      "ctaCardTitle": "केवळ 200/महिनापासून सुरुवात",
+      "amount": 200,
+      "ctaTitle": "उत्पादन पहा",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "आरोग्य विमा",
+          "benefitSubtitle": "आजारपण किंवा अपघाताच्या घटनेत 4 लाखांपर्यंतचे कव्हरेज"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "डॉक्टरांचा सल्ला",
+          "benefitSubtitle": "क्लिनिक वैद्यकीय केंद्रांमध्ये किंवा तुमच्या फोनवरून"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "औषधे आणि प्रयोगशाळा तपासण्या",
+          "benefitSubtitle": "सर्व औषधे आणि प्रयोगशाळा तपासण्यांवर 20% पर्यंत सवलत "
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "कॅशलेस दावा",
+          "benefitSubtitle": "भारतभरातील 6000+ हॉस्पिटल्समध्ये लाभ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 हेल्पलाईन",
+          "benefitSubtitle": "तुमच्या सर्व वैद्यकीय आणि विम्याच्या दाव्याच्या समस्या सोडवण्यासाठी"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "आरोग्य चॅनेल ",
+          "benefitSubtitle": "आरोग्यविषयक गंमतीशीर व्हिडीओ म्हणजे तुम्हाला बरे वाटेल आणि तुम्ही निरोगी राहाल!"
+        }
+      ]
+    },
+    "or": {
+      "pageTitle": "ଭାରତର ଏକମାତ୍ର 360° ସ୍ୱାସ୍ଥ୍ୟସେବା ପ୍ଲାନ୍‌ ର ଅନୁଭୂତି ନିଅନ୍ତୁ",
+      "pageSubtitle": "ଗୋଟିଏ ସ୍ଥାନରେ ଶସ୍ତାରେ ସମସ୍ତ ସେବା ଅଫର୍ କରୁଛି!",
+      "ctaCardTitle": "ମାତ୍ର 200/ପ୍ରତିମାସ ରୁ ଆରମ୍ଭ ହେଉଛି",
+      "amount": 200,
+      "ctaTitle": "ଉତ୍ପାଦ ଦେଖନ୍ତୁ",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "ସ୍ୱାସ୍ଥ୍ୟ ବୀମା",
+          "benefitSubtitle": "ଅସୁସ୍ଥତା କିମ୍ବା ଦୁର୍ଘଟଣା କ୍ଷେତ୍ରରେ 4 ଲକ୍ଷ ପର୍ଯ୍ୟନ୍ତ କଭରେଜ୍ "
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "ଡାକ୍ତରୀ ପରାମର୍ଶ",
+          "benefitSubtitle": "କ୍ଲିନିକ୍ ଚିତ୍କିତ୍ସା କେନ୍ଦ୍ରରେ କିମ୍ବା ଆପଣଙ୍କ ଫୋନରୁ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "ଔଷଧ ଏବଂ ଲ୍ୟାବ୍ ପରୀକ୍ଷଣଗୁଡିକ",
+          "benefitSubtitle": "ଔଷଧ ଏବଂ ଲ୍ୟାବ୍ ପରୀକ୍ଷାରେ 20% ପର୍ଯ୍ୟନ୍ତ ରିହାତି"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "କ୍ୟାସଲେସ୍‌ ଦାବି",
+          "benefitSubtitle": "ସମଗ୍ର ଭାରତରେ 6000+ ଡାକ୍ତରଖାନାରେ ସୁବିଧା ପାଆନ୍ତୁ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 ହେଲ୍ପଲାଇନ",
+          "benefitSubtitle": "ଆପଣଙ୍କର ସମସ୍ତ ଡାକ୍ତରୀ ଏବଂ ବୀମା ଦାବି ସମସ୍ୟାର ସମାଧାନ କରିବାକୁ ଉପଲବ୍ଧ ଅଛୁ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "ସ୍ୱାସ୍ଥ୍ୟ ଚ୍ୟାନେଲ୍‌",
+          "benefitSubtitle": "ମଜାଦାର ସ୍ୱାସ୍ଥ୍ୟ ଭିଡିଓଗୁଡିକ ଦେଖନ୍ତୁ ଯାହା ଫଳରେ ଆପଣ ଉନ୍ନତ ଏବଂ ସୁସ୍ଥ ରହିବେ"
+        }
+      ]
+    },
+    "pa": {
+      "pageTitle": "ਭਾਰਤ ਦੇ ਇਕਲੌਤੇ 360° ਹੈਲਥਕੇਅਰ ਦਾ ਅਨੁਭਵ ਲਵੋ",
+      "pageSubtitle": "ਸਾਰੇ ਔਫਰ ਇਕ ਥਾਂ ਤੇ ਸਸਤੀ ਦਰਾਂ ਤੇ ਉਪਲਬਧ ਹਨ!",
+      "ctaCardTitle": "ਸਿਰਫ਼ 200/ਮਹੀਨੇ ਤੋਂ ਸ਼ੁਰੂ",
+      "amount": 200,
+      "ctaTitle": "ਉਤਪਾਦ ਵੇਖੋ",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "ਸਿਹਤ ਬੀਮਾ",
+          "benefitSubtitle": "ਬੀਮਾਰੀ ਜਾਂ ਹਾਦਸੇ ਦੇ ਮਾਮਲੇ ਵਿੱਚ 4 ਲੱਖ ਤਕ ਦੀ ਕਵਰੇਜ਼"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "ਡਾਕਟਰ ਦੀ ਸਲਾਹ",
+          "benefitSubtitle": "ਕਲਿਨਿੱਕ ਮੈਡੀਕਲ ਸੈਂਟਰਾਂ ਵਿੱਖੇ ਜਾਂ ਆਪਣੇ ਫੋਨ ਤੋਂ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "ਦਵਾਈਆਂ ਅਤੇ ਲੈਬ ਟੈਸਟs",
+          "benefitSubtitle": "ਦਵਾਈਆਂ ਅਤੇ ਲੈਬ ਟੈਸਟ ਤੇ 20% ਤਕ ਦੀ ਛੂਟ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "ਕੈਸ਼ਲੇਸ ਦਾਅਵਾ",
+          "benefitSubtitle": "ਪੂਰੇ ਭਾਰਤ ਦੇ 6000+ ਅਸਪਤਾਲਾਂ ਵਿੱਖੇ ਫਾਇਦੇ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 ਹੈਲਪਲਾਈਨe",
+          "benefitSubtitle": "ਤੁਹਾਡੇ ਸਾਰੇ ਮੈਡੀਕਲ ਅਤੇ ਬੀਮਾ ਦਾਅਵਾ ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਲਈ"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "ਸਿਹਤ ਚੈਨਲ",
+          "benefitSubtitle": "ਮਜ਼ੇਦਾਰ ਸਿਹਤ ਵੀਡੀਓਜ਼, ਤਾਂ ਜੋ ਤੁਹਾਡੀ ਸਿਹਤ ਵਿੱਚ ਸੁਧਾਰ ਆਵੇ ਅਤੇ ਤੁਸੀਂ ਸਿਹਤਮੰਦ ਰਹੋ"
+        }
+      ]
+    },
+    "ta": {
+      "pageTitle": "இந்தியாவின் ஒரே 360 ° ஹெல்த்கேர் திட்டத்தை அனுபவிக்கவும்",
+      "pageSubtitle": "மலிவு விலையில் ஒன்றில் அனைத்து ஆஃபார்களும்!",
+      "ctaCardTitle": "மாதத்திற்கு 200 முதல் தொடங்குகிறது",
+      "amount": 200,
+      "ctaTitle": "தயாரிப்பு காண்க",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "மருத்துவக்காப்பீடு",
+          "benefitSubtitle": "நோய் அல்லது விபத்து ஏற்பட்டால் 4 லட்சம் வரை காப்பீடு உண்டு "
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "டாக்டர் ஆலோசனைகள்",
+          "benefitSubtitle": "கிளினிக் மருத்துவ மையங்களில் அல்லது உங்கள் தொலைபேசியிலிருந்து"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "மருந்துகள் மற்றும் ஆய்வக சோதனைகள்",
+          "benefitSubtitle": "மருந்து, ஆய்வக சோதனையில் 20% வரை தள்ளுபடி"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "கேஷ்லெஸ் உரிமைக்கோரல்",
+          "benefitSubtitle": "இந்தியா முழுவதும் 6000+ மருத்துவமனைகளில் நன்மைகள்"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 ஹெல்ப்லைன்",
+          "benefitSubtitle": "உங்கள் மருத்துவ மற்றும் காப்பீட்டு உரிமைகோரல் சிக்கல்களை தீர்க்க"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "மருத்துவ சேனல்",
+          "benefitSubtitle": "வேடிக்கையான சுகாதார வீடியோக்கள் பார்த்துவிட்டு நன்றாக மற்றும் ஆரோக்கியமாக இருங்கள்"
+        }
+      ]
+    },
+    "te": {
+      "pageTitle": "భారతదేశం యొక్క 360 ° హెల్త్‌కేర్ ప్లాన్‌ను అనుభవించండి",
+      "pageSubtitle": "సరసమైన ధరలకు ఒకేదానిలో అన్ని ఇవ్వబడుతాయి!",
+      "ctaCardTitle": "నెలకు కేవలం 200/- నుండి ప్రారంభమవుతుంది",
+      "amount": 200,
+      "ctaTitle": "ఉత్పత్తిని చూడండి",
+      "planBenefits": [
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_insurance.png",
+          "benefitTitle": "ఆరోగ్య భీమా",
+          "benefitSubtitle": "అనారోగ్యం లేదా ప్రమాదం జరిగినప్పుడు 4 లక్షల వరకు కవరేజ్"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/doctor_consult.png",
+          "benefitTitle": "డాక్టర్ సంప్రదింపులు",
+          "benefitSubtitle": "క్లినిక్క్ వైద్య కేంద్రాలలో లేదా మీ ఫోన్ నుండి"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/lab_n_meds.png",
+          "benefitTitle": "మందులు & ల్యాబ్ పరీక్షలు",
+          "benefitSubtitle": "మందులు మరియు ల్యాబ్ పరీక్షలో 20% వరకు తగ్గింపు"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/cashless_claims.png",
+          "benefitTitle": "నగదు రహిత క్లెయిమ్",
+          "benefitSubtitle": "భారతదేశం అంతటా 6000+ ఆసుపత్రులలో ప్రయోజనాలు"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_support.png",
+          "benefitTitle": "24x7 హెల్ప్‌లైన్",
+          "benefitSubtitle": "మీ అన్ని వైద్య మరియు భీమా దావా సమస్యలను పరిష్కరించడానికి"
+        },
+        {
+          "benefitIcon": "https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/health_tv.png",
+          "benefitTitle": "ఆరోగ్య ఛానల్",
+          "benefitSubtitle": "ఫన్ హెల్త్ వీడియోలు కాబట్టి మీరు బాగుంటారు & ఆరోగ్యంగా ఉండండి"
+        }
+      ]
+    }
+  }
+}
