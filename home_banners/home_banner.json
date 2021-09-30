@@ -1,0 +1,508 @@
+{
+  "home_banner" : {
+    
+    "banners_data" : [
+      {
+            "id": "refrral_banner_1",
+            "name" : "referral_banner_earn_75_cash",
+            "type" : "referral",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/referral_banners/referral_earn_75_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://clinikk.onelink.me/IJC7/referral"
+            },
+            "visible_to":{
+              "b2b": false,
+              "b2b2c" : false,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : false,
+                "b2c_tf_non_banglore" : false,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "",
+              "b2b2c" : "",
+              "b2c" : {
+                "b2c_tf_banglore" : "",
+                "b2c_tf_non_banglore" : "",
+                "b2c_hpp_auto_pay_reg" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_not_reg" : "8,9,10,11,12,13,14,22,23,24,25,26,27,28,29,30,31",
+                "leads":""
+              }
+            }
+        },
+        {
+            "id": "refrral_banner_2",
+            "name" : "referral_banner_clinikk_cash",
+            "type" : "referral",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/referral_banners/referral_clinikk_cash_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://clinikk.onelink.me/IJC7/referral"
+            },
+            "visible_to":{
+              "b2b": false,
+              "b2b2c" : false,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : false,
+                "b2c_tf_non_banglore" : false,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "",
+              "b2b2c" : "",
+              "b2c" : {
+                "b2c_tf_banglore" : "",
+                "b2c_tf_non_banglore" : "",
+                "b2c_hpp_auto_pay_reg" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_not_reg" : "8,9,10,11,12,13,14,22,23,24,25,26,27,28,29,30,31",
+                "leads":""
+              }
+          }
+        },
+        {
+            "id": "engage_banner_1",
+            "name" : "engage_banner_clear_skin",
+            "type" : "engage",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/engage_banners/engage_clear_skin_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://clinikk.onelink.me/IJC7/engmview?redirecturl=https://www.clinikk.com/marketing/android/health-tips-android#1"
+            },
+            "visible_to":{
+              "b2b": false,
+              "b2b2c" : false,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : false,
+                "b2c_tf_non_banglore" : false,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "",
+              "b2b2c" : "",
+              "b2c" : {
+                "b2c_tf_banglore" : "",
+                "b2c_tf_non_banglore" : "",
+                "b2c_hpp_auto_pay_reg" : "8,9,10,11,12,13,14,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_not_reg" : "22,23,24,25,26,27,28,29,30,31",
+                "leads":""
+              }
+            }
+        },
+        {
+            "id": "engage_banner_2",
+            "name" : "engage_banner_health_tip",
+            "type" : "engage",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/engage_banners/engage_health_tip_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://clinikk.onelink.me/IJC7/engmview?redirecturl=https://www.clinikk.com/marketing/android/health-tips-android#1"
+            },
+            "visible_to":{
+              "b2b": true,
+              "b2b2c" : true,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : true,
+                "b2c_tf_non_banglore" : true,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":true
+            },
+            "visibility_dates" : {
+              "b2b" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2b2c" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2c" : {
+                "b2c_tf_banglore" : "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                "b2c_tf_non_banglore" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_reg" : "8,9,10,11,12,13,14,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_not_reg" : "22,23,24,25,26,27,28,29,30,31",
+                "leads":"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31"
+              }
+            }
+        },
+        {
+            "id": "engage_banner_3",
+            "name" : "engage_banner_health_tip",
+            "type" : "engage",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/engage_banners/engage_learn_insurance_EN.png",
+            "visibility" : false,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : ""
+            },
+            "visible_to":{
+              "b2b": true,
+              "b2b2c" : true,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : true,
+                "b2c_tf_non_banglore" : true,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":true
+            },
+            "visibility_dates" : {
+              "b2b" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2b2c" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2c" : {
+                "b2c_tf_banglore" : "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                "b2c_tf_non_banglore" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_reg" : "8,9,10,11,12,13,14,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_not_reg" : "22,23,24,25,26,27,28,29,30,31",
+                "leads":"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31"
+              }
+            }
+        },
+        {
+            "id": "acquire_banner_1",
+            "name" : "acquire_banner_get_insurance",
+            "type" : "acquire",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/acquire/acquire_get_insurance.jpg",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "weblink",
+              "url" : "https://app.clinikk.com/products/60e2ec328a72e27ed0eb7ff8?utm_campaign=MarketingOnline&utm_source=PIE&utm_medium=AppBanner"
+            },
+            "visible_to":{
+              "b2b": false,
+              "b2b2c" : false,
+              "b2c" : false,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : false,
+                "b2c_tf_non_banglore" : false,
+                "b2c_hpp_auto_pay_reg" : false,
+                "b2c_hpp_auto_pay_not_reg" : false
+              },
+              "leads":true
+            },
+            "visibility_dates" : {
+              "b2b" : "",
+              "b2b2c" : "",
+              "b2c" : {
+                "b2c_tf_banglore" : "",
+                "b2c_tf_non_banglore" : "",
+                "b2c_hpp_auto_pay_reg" : "",
+                "b2c_hpp_auto_pay_not_reg" : "",
+                "leads":"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31"
+              }
+            }
+        },
+        {
+            "id": "upsell_banner_1",
+            "name" : "upsell_banner_get_insurance",
+            "type" : "acquire",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/acquire/acquire_get_insurance.jpg",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "weblink",
+              "url" : "https://app.clinikk.com/products/60e2ec328a72e27ed0eb7ff8?utm_campaign=MarketingOnline&utm_source=PIE&utm_medium=AppBanner"
+            },
+            "visible_to":{
+              "b2b": false,
+              "b2b2c" : false,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : false,
+                "b2c_tf_non_banglore" : true,
+                "b2c_hpp_auto_pay_reg" : false,
+                "b2c_hpp_auto_pay_not_reg" : false
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "",
+              "b2b2c" : "",
+              "b2c" : {
+                "b2c_tf_banglore" : "",
+                "b2c_tf_non_banglore" : "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                "b2c_hpp_auto_pay_reg" : "",
+                "b2c_hpp_auto_pay_not_reg" : "",
+                "leads":""
+              }
+            }
+        },
+        {
+            "id": "usage_banner_1",
+            "name" : "usage_banner_medicine_off",
+            "type" : "usage",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_20_off_medicines_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://link.clinikk.com/Banner-Call"
+            },
+            "visible_to":{
+              "b2b": true,
+              "b2b2c" : true,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : true,
+                "b2c_tf_non_banglore" : true,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2b2c" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2c" : {
+                "b2c_tf_banglore" : "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                "b2c_tf_non_banglore" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_reg" : "1,2,3,4,5,6,7,15,16,17,18,19,20,21",
+                "b2c_hpp_auto_pay_not_reg" : "8,9,10,11,12,13,14",
+                "leads":""
+              }
+            }
+        },
+        {
+            "id": "usage_banner_2",
+            "name" : "usage_banner_labtest_off",
+            "type" : "usage",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_lab_tests_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://link.clinikk.com/Banner-Call"
+            },
+            "visible_to":{
+              "b2b": true,
+              "b2b2c" : true,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : true,
+                "b2c_tf_non_banglore" : true,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2b2c" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2c" : {
+                "b2c_tf_banglore" : "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                "b2c_tf_non_banglore" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_reg" : "1,2,3,4,5,6,7,15,16,17,18,19,20,21",
+                "b2c_hpp_auto_pay_not_reg" : "8,9,10,11,12,13,14",
+                "leads":""
+              }
+            }
+        },
+        {
+            "id": "usage_banner_3",
+            "name" : "usage_banner_assistance",
+            "type" : "usage",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_assistance_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://link.clinikk.com/Banner-Call"
+            },
+            "visible_to":{
+              "b2b": true,
+              "b2b2c" : true,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : true,
+                "b2c_tf_non_banglore" : true,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2b2c" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2c" : {
+                "b2c_tf_banglore" : "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                "b2c_tf_non_banglore" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_reg" : "1,2,3,4,5,6,7,15,16,17,18,19,20,21",
+                "b2c_hpp_auto_pay_not_reg" : "8,9,10,11,12,13,14",
+                "leads":""
+              }
+            }
+        },
+        {
+            "id": "usage_banner_4",
+            "name" : "usage_banner_joint_pain",
+            "type" : "usage",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_joint_pain_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://link.clinikk.com/Banner-Call"
+            },
+            "visible_to":{
+              "b2b": true,
+              "b2b2c" : true,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : true,
+                "b2c_tf_non_banglore" : true,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2b2c" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2c" : {
+                "b2c_tf_banglore" : "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                "b2c_tf_non_banglore" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_reg" : "1,2,3,4,5,6,7,15,16,17,18,19,20,21",
+                "b2c_hpp_auto_pay_not_reg" : "8,9,10,11,12,13,14",
+                "leads":""
+              }
+            }
+        },
+        {
+            "id": "usage_banner_5",
+            "name" : "usage_banner_joint_pain",
+            "type" : "usage",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_backaches_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "applink",
+              "url" : "https://link.clinikk.com/Banner-Call"
+            },
+            "visible_to":{
+              "b2b": true,
+              "b2b2c" : true,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : true,
+                "b2c_tf_non_banglore" : true,
+                "b2c_hpp_auto_pay_reg" : true,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2b2c" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+              "b2c" : {
+                "b2c_tf_banglore" : "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                "b2c_tf_non_banglore" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                "b2c_hpp_auto_pay_reg" : "1,2,3,4,5,6,7,15,16,17,18,19,20,21",
+                "b2c_hpp_auto_pay_not_reg" : "8,9,10,11,12,13,14",
+                "leads":""
+              }
+            }
+        },
+        {
+            "id": "autopay_banner_1",
+            "name" : "autopay_banner_1",
+            "type" : "autopay",
+            "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/autopay/autopay_banner_EN.png",
+            "visibility" : true,
+            "cta_action" : {
+              "type" : "weblink",
+              "url" : "https://app.clinikk.com/enach"
+            },
+            "visible_to":{
+              "b2b": false,
+              "b2b2c" : false,
+              "b2c" : true,
+              "b2c_categories" : {
+                "b2c_tf_banglore" : false,
+                "b2c_tf_non_banglore" : false,
+                "b2c_hpp_auto_pay_reg" : false,
+                "b2c_hpp_auto_pay_not_reg" : true
+              },
+              "leads":false
+            },
+            "visibility_dates" : {
+              "b2b" : "",
+              "b2b2c" : "",
+              "b2c" : {
+                "b2c_tf_banglore" : "",
+                "b2c_tf_non_banglore" : "",
+                "b2c_hpp_auto_pay_reg" : "",
+                "b2c_hpp_auto_pay_not_reg" : "8,9,10,11,12,13,14",
+                "leads":""
+              }
+            }
+        }
+      ],
+    
+    "translations" : {
+      "en" : {
+        "banners_urls" : [
+            {
+              "id": "refrral_banner_1",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/referral_banners/referral_earn_75_EN.png"
+            },
+            {
+              "id": "refrral_banner_2",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/referral_banners/referral_clinikk_cash_EN.png"
+            },
+            {
+              "id": "engage_banner_1",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/engage_banners/engage_clear_skin_EN.png"
+            },
+            {
+              "id": "engage_banner_2",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/engage_banners/engage_health_tip_EN.png"
+            },
+            {
+              "id": "engage_banner_3",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/engage_banners/engage_learn_insurance_EN.png"
+            },
+            {
+              "id": "acquire_banner_1",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/acquire/acquire_get_insurance.jpg"
+            },
+            {
+              "id": "upsell_banner_1",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/acquire/acquire_get_insurance.jpg"
+            },
+            {
+              "id": "usage_banner_1",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_20_off_medicines_EN.png"
+            },
+            {
+              "id": "usage_banner_2",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_lab_tests_EN.png"
+            },
+            {
+              "id": "usage_banner_3",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_assistance_EN.png"
+            },
+            {
+              "id": "usage_banner_4",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/usage/usage_joint_pain_EN.png"
+            },
+            {
+              "id": "usage_banner_5",
+              "banner_url":"https://github.com/Shekharb694/assets/blob/main/home_banners/usage/usage_backaches_EN.png"
+            },
+            {
+              "id": "autopay_banner_1",
+              "banner_url":"https://cdn.jsdelivr.net/gh/Shekharb694/assets@main/home_banners/autopay/autopay_banner_EN.png"
+            }
+          ]
+      }
+    }
+  }
+}
